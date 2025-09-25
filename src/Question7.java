@@ -37,6 +37,6 @@ public class Question7 {
                 x = "Senior";
                 break;
     }
-    System.out.println("You are a " + major + x);
+    System.out.println("You are a " + major +" "+ x);
 }
 }
